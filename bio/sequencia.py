@@ -1,22 +1,30 @@
 class Sequencia:
-
     def __init__(self, sequencia):
         self.sequencia = sequencia
 
-    def __repr__(self):
-        return f'Sequencia("{self.sequencia}")'
+    def complementar(self):
+        complemento = {"A": "T", "T": "A", "C": "G", "G": "C"}
+        nova_sequencia = "".join(complemento[base] for base in self.sequencia)
+        return Sequencia(nova_sequencia)
 
-    def __iter__(self):
-        return self.sequencia
+    def complementar_reversa(self):
+        complemento_reverso = {"A": "T", "T": "A", "C": "G", "G": "C"}
+        nova_sequencia = "".join(complemento_reverso[base] for base in self.sequencia[::-1])
+        return Sequencia(nova_sequencia)
 
-    def __str__(self):
-        return self.sequencia
+    def transcrever(self):
+        transcricao = {"A": "U", "T": "A", "C": "G", "G": "C"}
+        nova_sequencia = "".join(transcricao[base] for base in self.sequencia)
+        return Sequencia(nova_sequencia)
 
-    def __len__(self):
-        return len(self.sequencia)
-
-    def __eq__(self, outra_sequencia):
-        return str(self) == str(outra_sequencia)
-
-    def __getitem__(self, index):
-        return self.sequencia.__getitem__(index)
+    def traduzir(self, parar=False):
+        codons = [self.sequencia[i:i + 3] for i in range(0, len(self.sequencia), 3)]
+        traducao = ""
+        for codon in codons:
+            if codon in DNA_PARA_AMINOACIDO:
+                if parar and DNA_PARA_AMINOACIDO[codon] == "*":
+                    break
+                traducao += DNA_PARA_AMINOACIDO[codon]
+            else:
+                traducao += "X"
+        return traducao
