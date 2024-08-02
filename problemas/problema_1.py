@@ -1,6 +1,6 @@
-from sequencia import Sequencia
-from organismo_fasta import OrganismoFasta
-from ler_fasta import ler_fasta
+from bio.sequencia import Sequencia
+from bio.organismo_fasta import OrganismoFasta
+from bio.ler_fasta import ler_fasta
 import os
 
 diretorio_arquivo = os.path.join("arquivos", "Flaviviridae-genomes.fasta")
