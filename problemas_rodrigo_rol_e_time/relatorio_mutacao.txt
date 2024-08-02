@@ -1,0 +1,159 @@
+ID: NC_074786.1, Mutação na posição 1000: Não Presente
+ID: NC_074787.1, Mutação na posição 1000: Não Presente
+ID: NC_076029.1, Mutação na posição 1000: Não Presente
+ID: NC_076032.1, Mutação na posição 1000: Não Presente
+ID: NC_077000.1, Mutação na posição 1000: Não Presente
+ID: NC_077001.1, Mutação na posição 1000: Não Presente
+ID: NC_077015.1, Mutação na posição 1000: Não Presente
+ID: NC_077023.1, Mutação na posição 1000: Não Presente
+ID: NC_077024.1, Mutação na posição 1000: Não Presente
+ID: NC_077026.1, Mutação na posição 1000: Não Presente
+ID: NC_043110.1, Mutação na posição 1000: Não Presente
+ID: NC_040555.1, Mutação na posição 1000: Presente
+ID: NC_040589.1, Mutação na posição 1000: Não Presente
+ID: NC_040610.1, Mutação na posição 1000: Não Presente
+ID: NC_040645.1, Mutação na posição 1000: Não Presente
+ID: NC_040682.1, Mutação na posição 1000: Não Presente
+ID: NC_040776.1, Mutação na posição 1000: Presente
+ID: NC_040788.1, Mutação na posição 1000: Não Presente
+ID: NC_040815.1, Mutação na posição 1000: Não Presente
+ID: NC_038425.1, Mutação na posição 1000: Presente
+ID: NC_038426.1, Mutação na posição 1000: Não Presente
+ID: NC_038427.1, Mutação na posição 1000: Não Presente
+ID: NC_038428.1, Mutação na posição 1000: Não Presente
+ID: NC_038429.1, Mutação na posição 1000: Não Presente
+ID: NC_038430.1, Mutação na posição 1000: Presente
+ID: NC_038431.1, Mutação na posição 1000: Presente
+ID: NC_038432.1, Mutação na posição 1000: Não Presente
+ID: NC_038433.1, Mutação na posição 1000: Presente
+ID: NC_038434.1, Mutação na posição 1000: Presente
+ID: NC_038435.1, Mutação na posição 1000: Não Presente
+ID: NC_038436.1, Mutação na posição 1000: Não Presente
+ID: NC_038437.1, Mutação na posição 1000: Não Presente
+ID: NC_038882.1, Mutação na posição 1000: Não Presente
+ID: NC_038912.1, Mutação na posição 1000: Não Presente
+ID: NC_038964.1, Mutação na posição 1000: Presente
+ID: NC_039218.1, Mutação na posição 1000: Não Presente
+ID: NC_039219.1, Mutação na posição 1000: Não Presente
+ID: NC_039237.1, Mutação na posição 1000: Não Presente
+ID: NC_035889.1, Mutação na posição 1000: Não Presente
+ID: NC_035432.1, Mutação na posição 1000: Presente
+ID: NC_035187.1, Mutação na posição 1000: Não Presente
+ID: NC_035118.1, Mutação na posição 1000: Presente
+ID: NC_035071.1, Mutação na posição 1000: Não Presente
+ID: NC_034442.1, Mutação na posição 1000: Não Presente
+ID: NC_034151.1, Mutação na posição 1000: Não Presente
+ID: NC_034242.1, Mutação na posição 1000: Não Presente
+ID: NC_034222.1, Mutação na posição 1000: Não Presente
+ID: NC_034223.1, Mutação na posição 1000: Não Presente
+ID: NC_034224.1, Mutação na posição 1000: Não Presente
+ID: NC_034225.1, Mutação na posição 1000: Não Presente
+ID: NC_034204.1, Mutação na posição 1000: Não Presente
+ID: NC_034007.1, Mutação na posição 1000: Não Presente
+ID: NC_034017.1, Mutação na posição 1000: Não Presente
+ID: NC_034018.1, Mutação na posição 1000: Não Presente
+ID: NC_033693.1, Mutação na posição 1000: Não Presente
+ID: NC_033694.1, Mutação na posição 1000: Não Presente
+ID: NC_033697.1, Mutação na posição 1000: Presente
+ID: NC_033698.1, Mutação na posição 1000: Não Presente
+ID: NC_033699.1, Mutação na posição 1000: Presente
+ID: NC_033715.1, Mutação na posição 1000: Não Presente
+ID: NC_033721.1, Mutação na posição 1000: Presente
+ID: NC_033723.1, Mutação na posição 1000: Presente
+ID: NC_033724.1, Mutação na posição 1000: Não Presente
+ID: NC_033725.1, Mutação na posição 1000: Não Presente
+ID: NC_033726.1, Mutação na posição 1000: Presente
+ID: NC_032088.1, Mutação na posição 1000: Não Presente
+ID: NC_031950.1, Mutação na posição 1000: Não Presente
+ID: NC_031916.1, Mutação na posição 1000: Não Presente
+ID: NC_031947.1, Mutação na posição 1000: Presente
+ID: NC_031327.1, Mutação na posição 1000: Não Presente
+ID: NC_029054.2, Mutação na posição 1000: Presente
+ID: NC_030791.1, Mutação na posição 1000: Não Presente
+ID: NC_030653.1, Mutação na posição 1000: Não Presente
+ID: NC_030400.1, Mutação na posição 1000: Não Presente
+ID: NC_030401.1, Mutação na posição 1000: Não Presente
+ID: NC_030289.1, Mutação na posição 1000: Não Presente
+ID: NC_030290.1, Mutação na posição 1000: Presente
+ID: NC_030291.1, Mutação na posição 1000: Não Presente
+ID: NC_029055.1, Mutação na posição 1000: Não Presente
+ID: NC_028377.1, Mutação na posição 1000: Não Presente
+ID: NC_028137.1, Mutação na posição 1000: Não Presente
+ID: NC_027998.2, Mutação na posição 1000: Não Presente
+ID: NC_027999.1, Mutação na posição 1000: Não Presente
+ID: NC_027817.1, Mutação na posição 1000: Não Presente
+ID: NC_027819.1, Mutação na posição 1000: Não Presente
+ID: NC_027709.1, Mutação na posição 1000: Presente
+ID: NC_026797.1, Mutação na posição 1000: Não Presente
+ID: NC_026620.1, Mutação na posição 1000: Não Presente
+ID: NC_026623.1, Mutação na posição 1000: Não Presente
+ID: NC_026624.1, Mutação na posição 1000: Não Presente
+ID: NC_025672.1, Mutação na posição 1000: Não Presente
+ID: NC_025673.1, Mutação na posição 1000: Não Presente
+ID: NC_025677.1, Mutação na posição 1000: Não Presente
+ID: NC_025679.1, Mutação na posição 1000: Não Presente
+ID: NC_024889.1, Mutação na posição 1000: Não Presente
+ID: NC_024805.1, Mutação na posição 1000: Não Presente
+ID: NC_024806.1, Mutação na posição 1000: Não Presente
+ID: NC_024377.1, Mutação na posição 1000: Presente
+ID: NC_024299.2, Mutação na posição 1000: Não Presente
+ID: NC_024111.1, Mutação na posição 1000: Presente
+ID: NC_024112.1, Mutação na posição 1000: Não Presente
+ID: NC_024113.1, Mutação na posição 1000: Não Presente
+ID: NC_024114.1, Mutação na posição 1000: Não Presente
+ID: NC_024077.1, Mutação na posição 1000: Não Presente
+ID: NC_024018.2, Mutação na posição 1000: Presente
+ID: NC_024017.1, Mutação na posição 1000: Não Presente
+ID: NC_023439.1, Mutação na posição 1000: Presente
+ID: NC_023424.1, Mutação na posição 1000: Não Presente
+ID: NC_023176.1, Mutação na posição 1000: Não Presente
+ID: NC_021153.1, Mutação na posição 1000: Não Presente
+ID: NC_021154.1, Mutação na posição 1000: Não Presente
+ID: NC_021069.1, Mutação na posição 1000: Não Presente
+ID: NC_020902.1, Mutação na posição 1000: Não Presente
+ID: NC_018705.3, Mutação na posição 1000: Não Presente
+ID: NC_018713.1, Mutação na posição 1000: Não Presente
+ID: NC_017086.1, Mutação na posição 1000: Não Presente
+ID: NC_016997.1, Mutação na posição 1000: Não Presente
+ID: NC_015843.2, Mutação na posição 1000: Presente
+ID: NC_012932.1, Mutação na posição 1000: Não Presente
+ID: NC_012812.1, Mutação na posição 1000: Não Presente
+ID: NC_012735.1, Mutação na posição 1000: Não Presente
+ID: NC_012671.1, Mutação na posição 1000: Não Presente
+ID: NC_012532.1, Mutação na posição 1000: Não Presente
+ID: NC_012533.1, Mutação na posição 1000: Não Presente
+ID: NC_012534.1, Mutação na posição 1000: Não Presente
+ID: NC_009942.1, Mutação na posição 1000: Não Presente
+ID: NC_009823.1, Mutação na posição 1000: Não Presente
+ID: NC_009827.1, Mutação na posição 1000: Não Presente
+ID: NC_009029.2, Mutação na posição 1000: Presente
+ID: NC_008718.1, Mutação na posição 1000: Não Presente
+ID: NC_008719.1, Mutação na posição 1000: Não Presente
+ID: NC_008604.2, Mutação na posição 1000: Presente
+ID: NC_007580.2, Mutação na posição 1000: Não Presente
+ID: NC_006551.1, Mutação na posição 1000: Não Presente
+ID: NC_005064.1, Mutação na posição 1000: Não Presente
+ID: NC_005062.1, Mutação na posição 1000: Presente
+ID: NC_005039.1, Mutação na posição 1000: Não Presente
+ID: NC_004119.1, Mutação na posição 1000: Não Presente
+ID: NC_003635.1, Mutação na posição 1000: Presente
+ID: NC_002657.1, Mutação na posição 1000: Não Presente
+ID: NC_002640.1, Mutação na posição 1000: Não Presente
+ID: NC_003690.1, Mutação na posição 1000: Não Presente
+ID: NC_000943.1, Mutação na posição 1000: Não Presente
+ID: NC_003678.1, Mutação na posição 1000: Não Presente
+ID: NC_001655.1, Mutação na posição 1000: Não Presente
+ID: NC_003679.1, Mutação na posição 1000: Não Presente
+ID: NC_001837.1, Mutação na posição 1000: Não Presente
+ID: NC_004102.1, Mutação na posição 1000: Não Presente
+ID: NC_001809.1, Mutação na posição 1000: Não Presente
+ID: NC_001477.1, Mutação na posição 1000: Não Presente
+ID: NC_001710.1, Mutação na posição 1000: Não Presente
+ID: NC_001672.1, Mutação na posição 1000: Presente
+ID: NC_001563.2, Mutação na posição 1000: Não Presente
+ID: NC_001564.2, Mutação na posição 1000: Presente
+ID: NC_001461.1, Mutação na posição 1000: Não Presente
+ID: NC_001474.2, Mutação na posição 1000: Presente
+ID: NC_001475.2, Mutação na posição 1000: Não Presente
+ID: NC_003687.1, Mutação na posição 1000: Não Presente
+ID: NC_002031.1, Mutação na posição 1000: Presente
