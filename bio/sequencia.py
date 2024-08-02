@@ -1,3 +1,4 @@
+
 class Sequencia:
     def __init__(self, sequencia):
         self.sequencia = sequencia
@@ -28,3 +29,9 @@ class Sequencia:
             else:
                 traducao += "X"
         return traducao
+
+    def calcular_percentual(self, bases):
+        total_bases = len(self.sequencia)
+        total_bases_especificas = sum(base in bases for base in self.sequencia)
+        percentual = total_bases_especificas / total_bases
+        return percentual
